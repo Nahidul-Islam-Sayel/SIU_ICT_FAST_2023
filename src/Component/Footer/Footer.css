@@ -1,0 +1,48 @@
+.footer {
+  background: linear-gradient(
+    90deg,
+    #06b6d4 0%,
+    #06b6d4 50%,
+    rgba(0, 212, 255, 1) 100%
+  );
+  min-width: 100%;
+  margin: auto;
+  justify-content: center;
+  margin-top: 50px;
+  color: whitesmoke;
+
+  font-family: "Catamaran", sans-serif;
+}
+.footer .policy {
+  text-align: center;
+  padding: 10px 0;
+}
+.footer .policy ul a {
+  display: inline-block;
+  color: whitesmoke;
+  padding: 10px;
+}
+.footer .foot {
+  text-align: center;
+  padding: 10px 0;
+}
+
+.img-size {
+  height: 100px;
+  width: 100px;
+}
+li {
+  list-style: none;
+  color: black;
+  font-weight: bold;
+}
+
+.Footer1 {
+  color: yellow;
+}
+.Footer2 {
+  color: yellow;
+}
+.cse-society-img {
+  margin-left: 45%;
+}
